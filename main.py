@@ -1,4 +1,5 @@
 //Codigo principal
+//creador de codigo Castro Pacheco Jose Manuel
 import socket
 from machine import ADC
 from machine import Timer
